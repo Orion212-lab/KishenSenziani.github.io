@@ -9,37 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](/files/Kishen_Senziani_CV_PhD.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Interdisciplinary Neuroscience, University of Geneva (UNIGE), in progress
+* M.Sc. in Advanced Research in Psychology, University of Geneva (UNIGE), in progress
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Current: Graduate Researcher
+  * University of Geneva, Neuroscience Department
+  * Characterizing word processing pathways using frequency tagging
+  * Focus: Language processing and cognitive neuroscience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Behavioral Science & Experimental Design**
+* **Neuroimaging**
+  * fMRI
+  * EEG
+  * MEG
+* **Data Analysis**
+  * R
+  * Python
 
 Publications
 ======
@@ -58,7 +51,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
